@@ -1,0 +1,35 @@
+#head,#foot{
+	margin-top: 10px;
+	height: 50px;
+	margin-left: 2px;
+	background-color: #00ff00;
+	border: 1px solid #ED9F9F; 
+}
+
+#logo{
+	padding: 10px;
+}
+
+#user{
+	float: right;
+	margin-top: -10px;
+}
+
+#box{
+	padding-right: 200px;
+}
+#aside{
+	position: absolute;
+	width: 200px;
+	right: 8px;
+	top:100px;
+	background-color: red;
+}
+
+#content{
+	height: 500px;
+	background-color: blue;
+	padding-left: -200px;
+	margin-top:20px;
+	margin-right: 20px;
+}
